@@ -1,0 +1,9 @@
+nemoguardrails[nvidia]
+langchain-nvidia-ai-endpoints
+
+# langchain
+
+langchain  
+langgraph
+langchain-groq
+langchain-community
